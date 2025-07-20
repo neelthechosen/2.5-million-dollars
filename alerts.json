@@ -1,0 +1,9 @@
+{
+  "bitcoin": [
+    {"direction": "above", "price": 70000},
+    {"direction": "below", "price": 60000}
+  ],
+  "ethereum": [
+    {"direction": "above", "price": 4000}
+  ]
+}
